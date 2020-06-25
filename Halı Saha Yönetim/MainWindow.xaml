@@ -1,0 +1,25 @@
+﻿<Window x:Class="Halı_Saha_Yönetim.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Halı_Saha_Yönetim"
+        mc:Ignorable="d"
+        Title="Yönetim Paneli" Height="450" Width="800">
+    <DockPanel>
+        <StackPanel Background="#FFE07373" MinWidth="100" Width="221" Height="419" VerticalAlignment="Bottom">
+            <Button Name="RezShow" Content="Rezervasyonlar" Height="69" Background="#FFDBEEE9" Foreground="Black" FontWeight="DemiBold" Click="RezShow_Click" FontSize="18" FontFamily="Segoe UI Black"/>
+            <Button Name="RezAttempt" Content="Rezervasyon Oluştur" Height="67" Background="#FFDBEEE9" Foreground="Black" FontWeight="DemiBold" Click="RezAttempt_Click" FontFamily="Segoe UI Black" FontSize="18"/>
+            <Button Name="Settings" Content="Saha Ekle" Height="62" Background="#FFDBEEE9" Foreground="Black" FontWeight="DemiBold" Click="Settings_Click" FontFamily="Segoe UI Black" FontSize="18"/>
+        </StackPanel>
+        <Grid Background="#FFFFB7B7">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Frame Background="White" Grid.Row="0" Name="MainFrame" NavigationUIVisibility="Hidden"/>
+        </Grid>
+    </DockPanel>
+
+
+</Window>

@@ -1,0 +1,27 @@
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\Halı Saha Yönetim.exe.config
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\Halı Saha Yönetim.exe
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\Halı Saha Yönetim.pdb
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\EntityFramework.dll
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\EntityFramework.xml
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\eyupcelebi.csprojAssemblyReference.cache
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\rezyap.g.cs
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\sahaekle.g.cs
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\App.g.cs
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim_Content.g.cs
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim_MarkupCompile.cache
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim_MarkupCompile.lref
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\rezyap.baml
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\sahaekle.baml
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.g.resources
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı_Saha_Yönetim.Properties.Resources.resources
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\eyupcelebi.csproj.GenerateResource.cache
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\eyupcelebi.csproj.CoreCompileInputs.cache
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\eyupcelebi.csproj.CopyComplete
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.exe
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.pdb
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\rezlistele.g.cs
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\rezlistele.baml
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\MainWindow.g.cs
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\MainWindow.baml
